@@ -31,7 +31,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
       _loading = true;
     });
 
-    const apiKey = 'c46df2a15d21585e86aa146c09039711';
+    const apiKey = '';
 
     try {
       String url;
